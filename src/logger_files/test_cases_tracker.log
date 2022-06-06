@@ -1,0 +1,522 @@
+31860    20       INFO MainThread          test_get_all_the_categories_in_the_menu   13:24:21 284.58309173583984 test-1 started
+31860    10      DEBUG MainThread           _new_conn   13:24:21 300.20761489868164 Starting new HTTP connection (1): 127.0.0.1:8000
+31860    10      DEBUG MainThread          _make_request   13:24:21 344.1183567047119 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+31860    20       INFO MainThread          test_get_all_the_categories_in_the_menu   13:24:21 344.1183567047119 test-1 ended
+27172    20       INFO MainThread          test_get_all_the_categories_in_the_menu   13:26:23 755.5713653564453 test-1 started
+27172    10      DEBUG MainThread           _new_conn   13:26:23 755.5713653564453 Starting new HTTP connection (1): 127.0.0.1:8000
+27172    10      DEBUG MainThread          _make_request   13:26:23 797.7406978607178 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+27172    20       INFO MainThread          test_get_all_the_categories_in_the_menu   13:26:23 797.7406978607178 test-1 ended
+9688    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:13:31 668.7147617340088 test-2 started
+9688    10      DEBUG MainThread           _new_conn   18:13:31 794.1014766693115 Starting new HTTP connection (1): 127.0.0.1:8000
+9688    10      DEBUG MainThread          _make_request   18:13:31 836.5521430969238 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+9688    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:13:31 836.5521430969238 test-1 started
+9688    10      DEBUG MainThread           _new_conn   18:13:31 836.5521430969238 Starting new HTTP connection (1): 127.0.0.1:8000
+9688    10      DEBUG MainThread          _make_request   18:13:31 868.5276508331299 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+9688    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:13:31 868.5276508331299 test-1 ended
+19720    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:14:35 381.33764266967773 test-2 started
+19720    10      DEBUG MainThread           _new_conn   18:14:35 381.33764266967773 Starting new HTTP connection (1): 127.0.0.1:8000
+19720    10      DEBUG MainThread          _make_request   18:14:35 409.4851016998291 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+19720    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:14:35 409.4851016998291 test-2 ended
+19720    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:14:35 409.4851016998291 test-1 started
+19720    10      DEBUG MainThread           _new_conn   18:14:35 409.4851016998291 Starting new HTTP connection (1): 127.0.0.1:8000
+19720    10      DEBUG MainThread          _make_request   18:14:35 440.8755302429199 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+19720    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:14:35 440.8755302429199 test-1 ended
+20444    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:14:39 476.29618644714355 test-2 started
+20444    10      DEBUG MainThread           _new_conn   18:14:39 476.29618644714355 Starting new HTTP connection (1): 127.0.0.1:8000
+20444    10      DEBUG MainThread          _make_request   18:14:39 491.9474124908447 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+20444    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:14:39 507.5948238372803 test-2 ended
+20444    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:14:39 507.5948238372803 test-1 started
+20444    10      DEBUG MainThread           _new_conn   18:14:39 507.5948238372803 Starting new HTTP connection (1): 127.0.0.1:8000
+20444    10      DEBUG MainThread          _make_request   18:14:39 523.6537456512451 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+20444    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:14:39 523.6537456512451 test-1 ended
+22648    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:34:19 586.6022109985352 test-2 started
+22648    10      DEBUG MainThread           _new_conn   01:34:19 702.5003433227539 Starting new HTTP connection (1): 127.0.0.1:8000
+22648    10      DEBUG MainThread          _make_request   01:34:20 239.44783210754395 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+22648    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:34:20 239.44783210754395 test-2 ended
+22648    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:34:20 255.15031814575195 test-1 started
+22648    10      DEBUG MainThread           _new_conn   01:34:20 256.4847469329834 Starting new HTTP connection (1): 127.0.0.1:8000
+22648    10      DEBUG MainThread          _make_request   01:34:20 439.61143493652344 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+22648    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:34:20 439.61143493652344 test-1 ended
+22648    20       INFO MainThread          test_get_menuitems_in_categories   01:34:20 443.7119960784912 test-1 started
+22648    10      DEBUG MainThread           _new_conn   01:34:20 443.7119960784912 Starting new HTTP connection (1): 127.0.0.1:8000
+22648    10      DEBUG MainThread          _make_request   01:34:20 539.5717620849609 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+4840    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:34:57 35.57419776916504 test-2 started
+4840    10      DEBUG MainThread           _new_conn   01:34:57 51.78976058959961 Starting new HTTP connection (1): 127.0.0.1:8000
+4840    10      DEBUG MainThread          _make_request   01:34:57 111.53507232666016 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+4840    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:34:57 111.53507232666016 test-2 ended
+4840    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:34:57 111.53507232666016 test-1 started
+4840    10      DEBUG MainThread           _new_conn   01:34:57 111.53507232666016 Starting new HTTP connection (1): 127.0.0.1:8000
+4840    10      DEBUG MainThread          _make_request   01:34:57 146.29411697387695 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+4840    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:34:57 146.29411697387695 test-1 ended
+4840    20       INFO MainThread          test_get_menuitems_in_categories   01:34:57 146.29411697387695 test-1 started
+4840    10      DEBUG MainThread           _new_conn   01:34:57 146.29411697387695 Starting new HTTP connection (1): 127.0.0.1:8000
+4840    10      DEBUG MainThread          _make_request   01:34:57 239.29309844970703 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+13592    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:35:13 377.8185844421387 test-2 started
+13592    10      DEBUG MainThread           _new_conn   01:35:13 393.50414276123047 Starting new HTTP connection (1): 127.0.0.1:8000
+13592    10      DEBUG MainThread          _make_request   01:35:13 457.9277038574219 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+13592    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:35:13 460.50024032592773 test-2 ended
+13592    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:35:13 460.50024032592773 test-1 started
+13592    10      DEBUG MainThread           _new_conn   01:35:13 460.50024032592773 Starting new HTTP connection (1): 127.0.0.1:8000
+13592    10      DEBUG MainThread          _make_request   01:35:13 502.80189514160156 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+13592    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:35:13 502.80189514160156 test-1 ended
+13592    20       INFO MainThread          test_get_menuitems_in_categories   01:35:13 502.80189514160156 test-1 started
+13592    10      DEBUG MainThread           _new_conn   01:35:13 502.80189514160156 Starting new HTTP connection (1): 127.0.0.1:8000
+13592    10      DEBUG MainThread          _make_request   01:35:13 592.4077033996582 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+17016    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:35:25 831.078290939331 test-2 started
+17016    10      DEBUG MainThread           _new_conn   01:35:25 831.078290939331 Starting new HTTP connection (1): 127.0.0.1:8000
+17016    10      DEBUG MainThread          _make_request   01:35:25 863.4655475616455 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+17016    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:35:25 870.8977699279785 test-2 ended
+17016    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:35:25 871.3955879211426 test-1 started
+17016    10      DEBUG MainThread           _new_conn   01:35:25 872.0080852508545 Starting new HTTP connection (1): 127.0.0.1:8000
+17016    10      DEBUG MainThread          _make_request   01:35:25 908.2419872283936 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+17016    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:35:25 914.7968292236328 test-1 ended
+17016    20       INFO MainThread          test_get_menuitems_in_categories   01:35:25 915.0040149688721 test-1 started
+17016    10      DEBUG MainThread           _new_conn   01:35:25 915.0040149688721 Starting new HTTP connection (1): 127.0.0.1:8000
+17016    10      DEBUG MainThread          _make_request   01:35:26 3.0517578125 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+17016    20       INFO MainThread          test_get_menuitems_in_categories   01:35:26 18.99099349975586 test-2 ended
+19980    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:35:27 735.689640045166 test-2 started
+19980    10      DEBUG MainThread           _new_conn   01:35:27 735.689640045166 Starting new HTTP connection (1): 127.0.0.1:8000
+19980    10      DEBUG MainThread          _make_request   01:35:27 767.8067684173584 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+19980    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   01:35:27 767.8067684173584 test-2 ended
+19980    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:35:27 767.8067684173584 test-1 started
+19980    10      DEBUG MainThread           _new_conn   01:35:27 777.8651714324951 Starting new HTTP connection (1): 127.0.0.1:8000
+19980    10      DEBUG MainThread          _make_request   01:35:27 812.474250793457 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+19980    20       INFO MainThread          test_get_all_the_categories_in_the_menu   01:35:27 812.474250793457 test-1 ended
+19980    20       INFO MainThread          test_get_menuitems_in_categories   01:35:27 812.474250793457 test-1 started
+19980    10      DEBUG MainThread           _new_conn   01:35:27 812.474250793457 Starting new HTTP connection (1): 127.0.0.1:8000
+19980    10      DEBUG MainThread          _make_request   01:35:27 904.4477939605713 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+19980    20       INFO MainThread          test_get_menuitems_in_categories   01:35:27 912.1387004852295 test-2 ended
+20112    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:17:35 830.5609226226807 test-2 started
+20112    10      DEBUG MainThread           _new_conn   12:17:35 932.4855804443359 Starting new HTTP connection (1): 127.0.0.1:8000
+20112    10      DEBUG MainThread          _make_request   12:17:35 984.5526218414307 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+20112    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:17:35 984.5526218414307 test-2 ended
+20112    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:17:35 984.5526218414307 test-1 started
+20112    10      DEBUG MainThread           _new_conn   12:17:35 984.5526218414307 Starting new HTTP connection (1): 127.0.0.1:8000
+20112    10      DEBUG MainThread          _make_request   12:17:36 62.692880630493164 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+20112    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:17:36 62.692880630493164 test-1 ended
+20112    20       INFO MainThread          test_get_menuitems_in_categories   12:17:36 62.692880630493164 test-3 started
+20112    10      DEBUG MainThread           _new_conn   12:17:36 70.9693431854248 Starting new HTTP connection (1): 127.0.0.1:8000
+20112    10      DEBUG MainThread          _make_request   12:17:36 150.56872367858887 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+20112    20       INFO MainThread          test_get_menuitems_in_categories   12:17:36 150.56872367858887 test-3 ended
+20112    20       INFO MainThread          test_get_menuitems_in_the_categories   12:17:36 150.56872367858887 test-4 started
+23856    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:19:20 261.6078853607178 test-2 started
+23856    10      DEBUG MainThread           _new_conn   12:19:20 261.6078853607178 Starting new HTTP connection (1): 127.0.0.1:8000
+23856    10      DEBUG MainThread          _make_request   12:19:20 300.01235008239746 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+23856    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:19:20 300.01235008239746 test-2 ended
+23856    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:19:20 306.93912506103516 test-1 started
+23856    10      DEBUG MainThread           _new_conn   12:19:20 306.93912506103516 Starting new HTTP connection (1): 127.0.0.1:8000
+23856    10      DEBUG MainThread          _make_request   12:19:20 333.0259323120117 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+23856    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:19:20 333.0259323120117 test-1 ended
+23856    20       INFO MainThread          test_get_menuitems_in_categories   12:19:20 341.06993675231934 test-3 started
+23856    10      DEBUG MainThread           _new_conn   12:19:20 341.48120880126953 Starting new HTTP connection (1): 127.0.0.1:8000
+23856    10      DEBUG MainThread          _make_request   12:19:20 490.8781051635742 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+23856    20       INFO MainThread          test_get_menuitems_in_categories   12:19:20 504.1072368621826 test-3 ended
+23856    20       INFO MainThread          test_get_menuitems_in_the_categories   12:19:20 505.11837005615234 test-4 started
+23856    10      DEBUG MainThread           _new_conn   12:19:20 505.11837005615234 Starting new HTTP connection (1): 127.0.0.1:8000
+23856    10      DEBUG MainThread          _make_request   12:19:20 536.7588996887207 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+23856    20       INFO MainThread          test_get_menuitems_in_the_categories   12:19:20 537.5394821166992 test-4 ended
+16488    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:19:24 191.54000282287598 test-2 started
+16488    10      DEBUG MainThread           _new_conn   12:19:24 207.1094512939453 Starting new HTTP connection (1): 127.0.0.1:8000
+16488    10      DEBUG MainThread          _make_request   12:19:24 220.0162410736084 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+16488    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:19:24 220.0162410736084 test-2 ended
+16488    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:19:24 220.0162410736084 test-1 started
+16488    10      DEBUG MainThread           _new_conn   12:19:24 236.6201877593994 Starting new HTTP connection (1): 127.0.0.1:8000
+16488    10      DEBUG MainThread          _make_request   12:19:24 364.1331195831299 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+16488    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:19:24 364.1331195831299 test-1 ended
+16488    20       INFO MainThread          test_get_menuitems_in_categories   12:19:24 364.1331195831299 test-3 started
+16488    10      DEBUG MainThread           _new_conn   12:19:24 372.3266124725342 Starting new HTTP connection (1): 127.0.0.1:8000
+16488    10      DEBUG MainThread          _make_request   12:19:24 438.4722709655762 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+16488    20       INFO MainThread          test_get_menuitems_in_categories   12:19:24 438.4722709655762 test-3 ended
+16488    20       INFO MainThread          test_get_menuitems_in_the_categories   12:19:24 438.4722709655762 test-4 started
+16488    10      DEBUG MainThread           _new_conn   12:19:24 443.8025951385498 Starting new HTTP connection (1): 127.0.0.1:8000
+16488    10      DEBUG MainThread          _make_request   12:19:24 469.5696830749512 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+16488    20       INFO MainThread          test_get_menuitems_in_the_categories   12:19:24 469.5696830749512 test-4 ended
+12848    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:14:01 461.5178108215332 test-2 started
+12848    10      DEBUG MainThread           _new_conn   16:14:01 517.5189971923828 Starting new HTTP connection (1): 127.0.0.1:8000
+12848    10      DEBUG MainThread          _make_request   16:14:01 580.4200172424316 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+12848    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:14:01 589.5965099334717 test-2 ended
+12848    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:14:01 590.5740261077881 test-1 started
+12848    10      DEBUG MainThread           _new_conn   16:14:01 590.5740261077881 Starting new HTTP connection (1): 127.0.0.1:8000
+12848    10      DEBUG MainThread          _make_request   16:14:01 635.8194351196289 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+12848    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:14:01 635.8194351196289 test-1 ended
+12848    20       INFO MainThread          test_get_menuitems_in_categories   16:14:01 642.5704956054688 test-3 started
+12848    10      DEBUG MainThread           _new_conn   16:14:01 642.6351070404053 Starting new HTTP connection (1): 127.0.0.1:8000
+12848    10      DEBUG MainThread          _make_request   16:14:01 764.9557590484619 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+12848    20       INFO MainThread          test_get_menuitems_in_categories   16:14:01 764.9557590484619 test-3 ended
+12848    20       INFO MainThread          test_get_menuitems_in_the_categories   16:14:01 764.9557590484619 test-4 started
+12848    10      DEBUG MainThread           _new_conn   16:14:01 774.2807865142822 Starting new HTTP connection (1): 127.0.0.1:8000
+12848    10      DEBUG MainThread          _make_request   16:14:01 816.347599029541 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+12848    20       INFO MainThread          test_get_menuitems_in_the_categories   16:14:01 816.347599029541 test-4 ended
+12848    10      DEBUG MainThread           _new_conn   16:14:01 824.6419429779053 Starting new HTTP connection (1): 127.0.0.1:8000
+12848    10      DEBUG MainThread          _make_request   16:14:02 6.134271621704102 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+29416    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:14:18 394.7179317474365 test-2 started
+29416    10      DEBUG MainThread           _new_conn   16:14:18 404.979944229126 Starting new HTTP connection (1): 127.0.0.1:8000
+29416    10      DEBUG MainThread          _make_request   16:14:18 443.9272880554199 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+29416    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:14:18 443.9272880554199 test-2 ended
+29416    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:14:18 449.97525215148926 test-1 started
+29416    10      DEBUG MainThread           _new_conn   16:14:18 451.72619819641113 Starting new HTTP connection (1): 127.0.0.1:8000
+29416    10      DEBUG MainThread          _make_request   16:14:18 502.5813579559326 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+29416    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:14:18 502.5813579559326 test-1 ended
+29416    20       INFO MainThread          test_get_menuitems_in_categories   16:14:18 502.5813579559326 test-3 started
+29416    10      DEBUG MainThread           _new_conn   16:14:18 511.01040840148926 Starting new HTTP connection (1): 127.0.0.1:8000
+29416    10      DEBUG MainThread          _make_request   16:14:18 630.8414936065674 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+29416    20       INFO MainThread          test_get_menuitems_in_categories   16:14:18 630.8414936065674 test-3 ended
+29416    20       INFO MainThread          test_get_menuitems_in_the_categories   16:14:18 630.8414936065674 test-4 started
+29416    10      DEBUG MainThread           _new_conn   16:14:18 630.8414936065674 Starting new HTTP connection (1): 127.0.0.1:8000
+29416    10      DEBUG MainThread          _make_request   16:14:18 695.2793598175049 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+29416    20       INFO MainThread          test_get_menuitems_in_the_categories   16:14:18 695.2793598175049 test-4 ended
+29416    10      DEBUG MainThread           _new_conn   16:14:18 703.8233280181885 Starting new HTTP connection (1): 127.0.0.1:8000
+29416    10      DEBUG MainThread          _make_request   16:14:18 898.5457420349121 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+30684    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:16:33 628.2551288604736 test-2 started
+30684    10      DEBUG MainThread           _new_conn   16:16:33 628.2551288604736 Starting new HTTP connection (1): 127.0.0.1:8000
+30684    10      DEBUG MainThread          _make_request   16:16:33 681.0715198516846 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+30684    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:16:33 681.0715198516846 test-2 ended
+30684    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:16:33 681.0715198516846 test-1 started
+30684    10      DEBUG MainThread           _new_conn   16:16:33 681.0715198516846 Starting new HTTP connection (1): 127.0.0.1:8000
+30684    10      DEBUG MainThread          _make_request   16:16:33 723.240852355957 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+30684    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:16:33 723.240852355957 test-1 ended
+30684    20       INFO MainThread          test_get_menuitems_in_categories   16:16:33 723.240852355957 test-3 started
+30684    10      DEBUG MainThread           _new_conn   16:16:33 723.240852355957 Starting new HTTP connection (1): 127.0.0.1:8000
+30684    10      DEBUG MainThread          _make_request   16:16:33 810.0554943084717 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+30684    20       INFO MainThread          test_get_menuitems_in_categories   16:16:33 810.0554943084717 test-3 ended
+30684    20       INFO MainThread          test_get_menuitems_in_the_categories   16:16:33 810.0554943084717 test-4 started
+30684    10      DEBUG MainThread           _new_conn   16:16:33 810.0554943084717 Starting new HTTP connection (1): 127.0.0.1:8000
+30684    10      DEBUG MainThread          _make_request   16:16:33 846.9030857086182 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+30684    20       INFO MainThread          test_get_menuitems_in_the_categories   16:16:33 846.9030857086182 test-4 ended
+30684    10      DEBUG MainThread           _new_conn   16:16:33 846.9030857086182 Starting new HTTP connection (1): 127.0.0.1:8000
+30684    10      DEBUG MainThread          _make_request   16:16:34 44.152259826660156 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+9200    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:17:02 808.7377548217773 test-2 started
+9200    10      DEBUG MainThread           _new_conn   16:17:02 808.7377548217773 Starting new HTTP connection (1): 127.0.0.1:8000
+9200    10      DEBUG MainThread          _make_request   16:17:02 864.2878532409668 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+9200    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:17:02 864.2878532409668 test-2 ended
+9200    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:17:02 864.2878532409668 test-1 started
+9200    10      DEBUG MainThread           _new_conn   16:17:02 864.2878532409668 Starting new HTTP connection (1): 127.0.0.1:8000
+9200    10      DEBUG MainThread          _make_request   16:17:02 933.326244354248 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+9200    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:17:02 935.0600242614746 test-1 ended
+9200    20       INFO MainThread          test_get_menuitems_in_categories   16:17:02 935.0600242614746 test-3 started
+9200    10      DEBUG MainThread           _new_conn   16:17:02 935.0600242614746 Starting new HTTP connection (1): 127.0.0.1:8000
+9200    10      DEBUG MainThread          _make_request   16:17:03 68.55964660644531 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+9200    20       INFO MainThread          test_get_menuitems_in_categories   16:17:03 85.49642562866211 test-3 ended
+9200    20       INFO MainThread          test_get_menuitems_in_the_categories   16:17:03 86.40789985656738 test-4 started
+9200    10      DEBUG MainThread           _new_conn   16:17:03 89.7066593170166 Starting new HTTP connection (1): 127.0.0.1:8000
+9200    10      DEBUG MainThread          _make_request   16:17:03 139.13202285766602 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+9200    20       INFO MainThread          test_get_menuitems_in_the_categories   16:17:03 139.13202285766602 test-4 ended
+9200    10      DEBUG MainThread           _new_conn   16:17:03 139.13202285766602 Starting new HTTP connection (1): 127.0.0.1:8000
+9200    10      DEBUG MainThread          _make_request   16:17:03 337.9547595977783 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+31372    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:19:30 680.0246238708496 test-2 started
+31372    10      DEBUG MainThread           _new_conn   16:19:30 680.0246238708496 Starting new HTTP connection (1): 127.0.0.1:8000
+31372    10      DEBUG MainThread          _make_request   16:19:30 731.0011386871338 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+31372    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   16:19:30 731.0011386871338 test-2 ended
+31372    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:19:30 731.0011386871338 test-1 started
+31372    10      DEBUG MainThread           _new_conn   16:19:30 731.0011386871338 Starting new HTTP connection (1): 127.0.0.1:8000
+31372    10      DEBUG MainThread          _make_request   16:19:30 787.9040241241455 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+31372    20       INFO MainThread          test_get_all_the_categories_in_the_menu   16:19:30 787.9040241241455 test-1 ended
+31372    20       INFO MainThread          test_get_menuitems_in_categories   16:19:30 794.3778038024902 test-3 started
+31372    10      DEBUG MainThread           _new_conn   16:19:30 794.3778038024902 Starting new HTTP connection (1): 127.0.0.1:8000
+31372    10      DEBUG MainThread          _make_request   16:19:30 886.1255645751953 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+31372    20       INFO MainThread          test_get_menuitems_in_categories   16:19:30 886.1255645751953 test-3 ended
+31372    20       INFO MainThread          test_get_menuitems_in_the_categories   16:19:30 886.1255645751953 test-4 started
+31372    10      DEBUG MainThread           _new_conn   16:19:30 886.1255645751953 Starting new HTTP connection (1): 127.0.0.1:8000
+31372    10      DEBUG MainThread          _make_request   16:19:30 937.3114109039307 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+31372    20       INFO MainThread          test_get_menuitems_in_the_categories   16:19:30 937.3114109039307 test-4 ended
+31372    10      DEBUG MainThread           _new_conn   16:19:30 944.9329376220703 Starting new HTTP connection (1): 127.0.0.1:8000
+31372    10      DEBUG MainThread          _make_request   16:19:31 108.50644111633301 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+12332    20       INFO MainThread          test_check_for_menuitems_in_subcategories   18:04:20 94.93684768676758 test-6 started
+12332    10      DEBUG MainThread           _new_conn   18:04:20 140.57040214538574 Starting new HTTP connection (1): 127.0.0.1:8000
+12332    10      DEBUG MainThread          _make_request   18:04:20 419.0859794616699 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+12332    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:04:20 419.0859794616699 test-2 started
+12332    10      DEBUG MainThread           _new_conn   18:04:20 434.60702896118164 Starting new HTTP connection (1): 127.0.0.1:8000
+12332    10      DEBUG MainThread          _make_request   18:04:20 512.7625465393066 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+12332    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:04:20 512.7625465393066 test-2 ended
+12332    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:04:20 512.7625465393066 test-1 started
+12332    10      DEBUG MainThread           _new_conn   18:04:20 512.7625465393066 Starting new HTTP connection (1): 127.0.0.1:8000
+12332    10      DEBUG MainThread          _make_request   18:04:20 559.6818923950195 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+12332    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:04:20 559.6818923950195 test-1 ended
+12332    20       INFO MainThread          test_get_menuitems_in_categories   18:04:20 559.6818923950195 test-3 started
+12332    10      DEBUG MainThread           _new_conn   18:04:20 559.6818923950195 Starting new HTTP connection (1): 127.0.0.1:8000
+12332    10      DEBUG MainThread          _make_request   18:04:20 711.8253707885742 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+12332    20       INFO MainThread          test_get_menuitems_in_categories   18:04:20 711.8253707885742 test-3 ended
+12332    20       INFO MainThread          test_get_menuitems_in_the_categories   18:04:20 711.8253707885742 test-4 started
+12332    10      DEBUG MainThread           _new_conn   18:04:20 723.3767509460449 Starting new HTTP connection (1): 127.0.0.1:8000
+12332    10      DEBUG MainThread          _make_request   18:04:20 759.4952583312988 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+12332    20       INFO MainThread          test_get_menuitems_in_the_categories   18:04:20 759.4952583312988 test-4 ended
+12332    20       INFO MainThread          test_get_subcategories_in_the_categories   18:04:20 759.4952583312988 test-5 started
+12332    10      DEBUG MainThread           _new_conn   18:04:20 759.4952583312988 Starting new HTTP connection (1): 127.0.0.1:8000
+12332    10      DEBUG MainThread          _make_request   18:04:20 960.2289199829102 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+12332    20       INFO MainThread          test_get_subcategories_in_the_categories   18:04:20 960.2289199829102 test-5 ended
+20156    20       INFO MainThread          test_check_for_menuitems_in_subcategories   18:04:44 563.1692409515381 test-6 started
+20156    10      DEBUG MainThread           _new_conn   18:04:44 563.1692409515381 Starting new HTTP connection (1): 127.0.0.1:8000
+20156    10      DEBUG MainThread          _make_request   18:04:44 786.8132591247559 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+20156    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:04:44 786.8132591247559 test-2 started
+20156    10      DEBUG MainThread           _new_conn   18:04:44 786.8132591247559 Starting new HTTP connection (1): 127.0.0.1:8000
+20156    10      DEBUG MainThread          _make_request   18:04:44 834.8259925842285 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+20156    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:04:44 841.5250778198242 test-2 ended
+20156    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:04:44 841.5250778198242 test-1 started
+20156    10      DEBUG MainThread           _new_conn   18:04:44 841.5250778198242 Starting new HTTP connection (1): 127.0.0.1:8000
+20156    10      DEBUG MainThread          _make_request   18:04:44 906.2323570251465 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+20156    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:04:44 906.2323570251465 test-1 ended
+20156    20       INFO MainThread          test_get_menuitems_in_categories   18:04:44 912.1973514556885 test-3 started
+20156    10      DEBUG MainThread           _new_conn   18:04:44 915.7648086547852 Starting new HTTP connection (1): 127.0.0.1:8000
+20156    10      DEBUG MainThread          _make_request   18:04:45 12.498140335083008 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+20156    20       INFO MainThread          test_get_menuitems_in_categories   18:04:45 12.498140335083008 test-3 ended
+20156    20       INFO MainThread          test_get_menuitems_in_the_categories   18:04:45 12.498140335083008 test-4 started
+20156    10      DEBUG MainThread           _new_conn   18:04:45 18.622875213623047 Starting new HTTP connection (1): 127.0.0.1:8000
+20156    10      DEBUG MainThread          _make_request   18:04:45 53.400278091430664 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+20156    20       INFO MainThread          test_get_menuitems_in_the_categories   18:04:45 53.400278091430664 test-4 ended
+20156    20       INFO MainThread          test_get_subcategories_in_the_categories   18:04:45 53.400278091430664 test-5 started
+20156    10      DEBUG MainThread           _new_conn   18:04:45 53.400278091430664 Starting new HTTP connection (1): 127.0.0.1:8000
+20156    10      DEBUG MainThread          _make_request   18:04:45 226.11737251281738 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+20156    20       INFO MainThread          test_get_subcategories_in_the_categories   18:04:45 228.898286819458 test-5 ended
+31676    20       INFO MainThread          test_check_for_menuitems_in_subcategories   18:05:50 489.6125793457031 test-6 started
+31676    10      DEBUG MainThread           _new_conn   18:05:50 489.6125793457031 Starting new HTTP connection (1): 127.0.0.1:8000
+31676    10      DEBUG MainThread          _make_request   18:05:50 707.4565887451172 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+31676    20       INFO MainThread          test_check_for_menuitems_in_subcategories   18:05:50 707.4565887451172 test-6 ended
+31676    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:05:50 707.4565887451172 test-2 started
+31676    10      DEBUG MainThread           _new_conn   18:05:50 715.5280113220215 Starting new HTTP connection (1): 127.0.0.1:8000
+31676    10      DEBUG MainThread          _make_request   18:05:50 762.3367309570312 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+31676    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:05:50 762.3367309570312 test-2 ended
+31676    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:05:50 765.9873962402344 test-1 started
+31676    10      DEBUG MainThread           _new_conn   18:05:50 765.9873962402344 Starting new HTTP connection (1): 127.0.0.1:8000
+31676    10      DEBUG MainThread          _make_request   18:05:50 832.4868679046631 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+31676    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:05:50 837.5771045684814 test-1 ended
+31676    20       INFO MainThread          test_get_menuitems_in_categories   18:05:50 838.4151458740234 test-3 started
+31676    10      DEBUG MainThread           _new_conn   18:05:50 841.9229984283447 Starting new HTTP connection (1): 127.0.0.1:8000
+31676    10      DEBUG MainThread          _make_request   18:05:50 942.6395893096924 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+31676    20       INFO MainThread          test_get_menuitems_in_categories   18:05:50 942.6395893096924 test-3 ended
+31676    20       INFO MainThread          test_get_menuitems_in_the_categories   18:05:50 942.6395893096924 test-4 started
+31676    10      DEBUG MainThread           _new_conn   18:05:50 950.6373405456543 Starting new HTTP connection (1): 127.0.0.1:8000
+31676    10      DEBUG MainThread          _make_request   18:05:51 9.927749633789062 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+31676    20       INFO MainThread          test_get_menuitems_in_the_categories   18:05:51 9.927749633789062 test-4 ended
+31676    20       INFO MainThread          test_get_subcategories_in_the_categories   18:05:51 9.927749633789062 test-5 started
+31676    10      DEBUG MainThread           _new_conn   18:05:51 19.158363342285156 Starting new HTTP connection (1): 127.0.0.1:8000
+31676    10      DEBUG MainThread          _make_request   18:05:51 204.1027545928955 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+31676    20       INFO MainThread          test_get_subcategories_in_the_categories   18:05:51 204.1027545928955 test-5 ended
+21696    20       INFO MainThread          test_check_for_menuitems_in_subcategories   18:05:57 132.42006301879883 test-6 started
+21696    10      DEBUG MainThread           _new_conn   18:05:57 140.42234420776367 Starting new HTTP connection (1): 127.0.0.1:8000
+21696    10      DEBUG MainThread          _make_request   18:05:57 358.55817794799805 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+21696    20       INFO MainThread          test_check_for_menuitems_in_subcategories   18:05:57 358.55817794799805 test-6 ended
+21696    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:05:57 358.55817794799805 test-2 started
+21696    10      DEBUG MainThread           _new_conn   18:05:57 366.72401428222656 Starting new HTTP connection (1): 127.0.0.1:8000
+21696    10      DEBUG MainThread          _make_request   18:05:57 406.6154956817627 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+21696    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   18:05:57 413.071870803833 test-2 ended
+21696    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:05:57 413.58184814453125 test-1 started
+21696    10      DEBUG MainThread           _new_conn   18:05:57 413.58184814453125 Starting new HTTP connection (1): 127.0.0.1:8000
+21696    10      DEBUG MainThread          _make_request   18:05:57 476.7639636993408 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+21696    20       INFO MainThread          test_get_all_the_categories_in_the_menu   18:05:57 482.6183319091797 test-1 ended
+21696    20       INFO MainThread          test_get_menuitems_in_categories   18:05:57 482.85531997680664 test-3 started
+21696    10      DEBUG MainThread           _new_conn   18:05:57 482.85531997680664 Starting new HTTP connection (1): 127.0.0.1:8000
+21696    10      DEBUG MainThread          _make_request   18:05:57 573.4970569610596 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+21696    20       INFO MainThread          test_get_menuitems_in_categories   18:05:57 573.4970569610596 test-3 ended
+21696    20       INFO MainThread          test_get_menuitems_in_the_categories   18:05:57 573.4970569610596 test-4 started
+21696    10      DEBUG MainThread           _new_conn   18:05:57 583.0302238464355 Starting new HTTP connection (1): 127.0.0.1:8000
+21696    10      DEBUG MainThread          _make_request   18:05:57 618.2045936584473 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+21696    20       INFO MainThread          test_get_menuitems_in_the_categories   18:05:57 618.2045936584473 test-4 ended
+21696    20       INFO MainThread          test_get_subcategories_in_the_categories   18:05:57 618.2045936584473 test-5 started
+21696    10      DEBUG MainThread           _new_conn   18:05:57 626.2333393096924 Starting new HTTP connection (1): 127.0.0.1:8000
+21696    10      DEBUG MainThread          _make_request   18:05:57 781.566858291626 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+21696    20       INFO MainThread          test_get_subcategories_in_the_categories   18:05:57 781.566858291626 test-5 ended
+28876    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:49:35 910.0124835968018 test-6 started
+28876    10      DEBUG MainThread           _new_conn   12:49:35 988.2171154022217 Starting new HTTP connection (1): 127.0.0.1:8000
+28876    10      DEBUG MainThread          _make_request   12:49:36 217.72003173828125 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+28876    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:49:36 217.72003173828125 test-6 ended
+28876    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:49:36 217.72003173828125 test-2 started
+28876    10      DEBUG MainThread           _new_conn   12:49:36 233.41894149780273 Starting new HTTP connection (1): 127.0.0.1:8000
+28876    10      DEBUG MainThread          _make_request   12:49:36 301.9568920135498 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+28876    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:49:36 301.9568920135498 test-2 ended
+28876    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:49:36 301.9568920135498 test-1 started
+28876    10      DEBUG MainThread           _new_conn   12:49:36 301.9568920135498 Starting new HTTP connection (1): 127.0.0.1:8000
+28876    10      DEBUG MainThread          _make_request   12:49:36 341.67981147766113 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+28876    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:49:36 341.67981147766113 test-1 ended
+28876    20       INFO MainThread          test_get_menuitems_in_categories   12:49:36 341.67981147766113 test-3 started
+28876    10      DEBUG MainThread           _new_conn   12:49:36 357.35535621643066 Starting new HTTP connection (1): 127.0.0.1:8000
+28876    10      DEBUG MainThread          _make_request   12:49:36 431.6108226776123 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+28876    20       INFO MainThread          test_get_menuitems_in_categories   12:49:36 431.6108226776123 test-3 ended
+28876    20       INFO MainThread          test_get_menuitems_in_the_categories   12:49:36 431.6108226776123 test-4 started
+28876    10      DEBUG MainThread           _new_conn   12:49:36 447.2939968109131 Starting new HTTP connection (1): 127.0.0.1:8000
+28876    10      DEBUG MainThread          _make_request   12:49:36 472.37586975097656 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+28876    20       INFO MainThread          test_get_menuitems_in_the_categories   12:49:36 472.37586975097656 test-4 ended
+28876    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   12:49:36 487.95461654663086 test-7 started
+28876    10      DEBUG MainThread           _new_conn   12:49:36 487.95461654663086 Starting new HTTP connection (1): 127.0.0.1:8000
+28876    10      DEBUG MainThread          _make_request   12:49:36 769.4623470306396 http://127.0.0.1:8000 "GET /get/menuitems/in/the/subcategories/ HTTP/1.1" 200 1583
+28876    20       INFO MainThread          test_get_subcategories_in_the_categories   12:49:36 769.4623470306396 test-5 started
+28876    10      DEBUG MainThread           _new_conn   12:49:36 769.4623470306396 Starting new HTTP connection (1): 127.0.0.1:8000
+28876    10      DEBUG MainThread          _make_request   12:49:36 896.507740020752 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+28876    20       INFO MainThread          test_get_subcategories_in_the_categories   12:49:36 896.507740020752 test-5 ended
+29840    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:52:18 208.5895538330078 test-6 started
+29840    10      DEBUG MainThread           _new_conn   12:52:18 224.21598434448242 Starting new HTTP connection (1): 127.0.0.1:8000
+29840    10      DEBUG MainThread          _make_request   12:52:18 430.09495735168457 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+29840    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:52:18 430.09495735168457 test-6 ended
+29840    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:52:18 430.09495735168457 test-2 started
+29840    10      DEBUG MainThread           _new_conn   12:52:18 430.09495735168457 Starting new HTTP connection (1): 127.0.0.1:8000
+29840    10      DEBUG MainThread          _make_request   12:52:18 463.99903297424316 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+29840    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:52:18 463.99903297424316 test-2 ended
+29840    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:52:18 463.99903297424316 test-1 started
+29840    10      DEBUG MainThread           _new_conn   12:52:18 463.99903297424316 Starting new HTTP connection (1): 127.0.0.1:8000
+29840    10      DEBUG MainThread          _make_request   12:52:18 496.95682525634766 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+29840    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:52:18 496.95682525634766 test-1 ended
+29840    20       INFO MainThread          test_get_menuitems_in_categories   12:52:18 496.95682525634766 test-3 started
+29840    10      DEBUG MainThread           _new_conn   12:52:18 496.95682525634766 Starting new HTTP connection (1): 127.0.0.1:8000
+29840    10      DEBUG MainThread          _make_request   12:52:18 574.5944976806641 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+29840    20       INFO MainThread          test_get_menuitems_in_categories   12:52:18 574.5944976806641 test-3 ended
+29840    20       INFO MainThread          test_get_menuitems_in_the_categories   12:52:18 574.5944976806641 test-4 started
+29840    10      DEBUG MainThread           _new_conn   12:52:18 574.5944976806641 Starting new HTTP connection (1): 127.0.0.1:8000
+29840    10      DEBUG MainThread          _make_request   12:52:18 616.4603233337402 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+29840    20       INFO MainThread          test_get_menuitems_in_the_categories   12:52:18 616.4603233337402 test-4 ended
+29840    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   12:52:18 616.4603233337402 test-7 started
+29840    10      DEBUG MainThread           _new_conn   12:52:18 625.7908344268799 Starting new HTTP connection (1): 127.0.0.1:8000
+29840    10      DEBUG MainThread          _make_request   12:52:18 901.0367393493652 http://127.0.0.1:8000 "GET /get/menuitems/in/the/subcategories/ HTTP/1.1" 200 1583
+29840    20       INFO MainThread          test_get_subcategories_in_the_categories   12:52:18 901.0367393493652 test-5 started
+29840    10      DEBUG MainThread           _new_conn   12:52:18 901.0367393493652 Starting new HTTP connection (1): 127.0.0.1:8000
+29840    10      DEBUG MainThread          _make_request   12:52:19 23.928165435791016 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+29840    20       INFO MainThread          test_get_subcategories_in_the_categories   12:52:19 23.928165435791016 test-5 ended
+20044    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:52:37 615.1785850524902 test-6 started
+20044    10      DEBUG MainThread           _new_conn   12:52:37 630.8956146240234 Starting new HTTP connection (1): 127.0.0.1:8000
+20044    10      DEBUG MainThread          _make_request   12:52:37 865.7393455505371 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+20044    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:52:37 865.7393455505371 test-6 ended
+20044    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:52:37 865.7393455505371 test-2 started
+20044    10      DEBUG MainThread           _new_conn   12:52:37 865.7393455505371 Starting new HTTP connection (1): 127.0.0.1:8000
+20044    10      DEBUG MainThread          _make_request   12:52:37 893.0153846740723 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+20044    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:52:37 893.0153846740723 test-2 ended
+20044    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:52:37 893.0153846740723 test-1 started
+20044    10      DEBUG MainThread           _new_conn   12:52:37 908.745527267456 Starting new HTTP connection (1): 127.0.0.1:8000
+20044    10      DEBUG MainThread          _make_request   12:52:37 936.4187717437744 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+20044    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:52:37 941.2753582000732 test-1 ended
+20044    20       INFO MainThread          test_get_menuitems_in_categories   12:52:37 941.2753582000732 test-3 started
+20044    10      DEBUG MainThread           _new_conn   12:52:37 941.2753582000732 Starting new HTTP connection (1): 127.0.0.1:8000
+20044    10      DEBUG MainThread          _make_request   12:52:38 11.727094650268555 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+20044    20       INFO MainThread          test_get_menuitems_in_categories   12:52:38 11.727094650268555 test-3 ended
+20044    20       INFO MainThread          test_get_menuitems_in_the_categories   12:52:38 11.727094650268555 test-4 started
+20044    10      DEBUG MainThread           _new_conn   12:52:38 28.017520904541016 Starting new HTTP connection (1): 127.0.0.1:8000
+20044    10      DEBUG MainThread          _make_request   12:52:38 59.29827690124512 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+20044    20       INFO MainThread          test_get_menuitems_in_the_categories   12:52:38 59.29827690124512 test-4 ended
+20044    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   12:52:38 59.29827690124512 test-7 started
+20044    10      DEBUG MainThread           _new_conn   12:52:38 59.29827690124512 Starting new HTTP connection (1): 127.0.0.1:8000
+20044    10      DEBUG MainThread          _make_request   12:52:38 347.98622131347656 http://127.0.0.1:8000 "GET /get/menuitems/in/the/subcategories/ HTTP/1.1" 200 1583
+20044    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   12:52:38 347.98622131347656 test-7 ended
+20044    20       INFO MainThread          test_get_subcategories_in_the_categories   12:52:38 347.98622131347656 test-5 started
+20044    10      DEBUG MainThread           _new_conn   12:52:38 347.98622131347656 Starting new HTTP connection (1): 127.0.0.1:8000
+20044    10      DEBUG MainThread          _make_request   12:52:38 483.4606647491455 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+20044    20       INFO MainThread          test_get_subcategories_in_the_categories   12:52:38 483.4606647491455 test-5 ended
+21560    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:52:42 963.660717010498 test-6 started
+21560    10      DEBUG MainThread           _new_conn   12:52:42 963.660717010498 Starting new HTTP connection (1): 127.0.0.1:8000
+21560    10      DEBUG MainThread          _make_request   12:52:43 163.18368911743164 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+21560    20       INFO MainThread          test_check_for_menuitems_in_subcategories   12:52:43 163.18368911743164 test-6 ended
+21560    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:52:43 163.18368911743164 test-2 started
+21560    10      DEBUG MainThread           _new_conn   12:52:43 163.18368911743164 Starting new HTTP connection (1): 127.0.0.1:8000
+21560    10      DEBUG MainThread          _make_request   12:52:43 194.4587230682373 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+21560    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   12:52:43 194.4587230682373 test-2 ended
+21560    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:52:43 194.4587230682373 test-1 started
+21560    10      DEBUG MainThread           _new_conn   12:52:43 210.1278305053711 Starting new HTTP connection (1): 127.0.0.1:8000
+21560    10      DEBUG MainThread          _make_request   12:52:43 237.0467185974121 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+21560    20       INFO MainThread          test_get_all_the_categories_in_the_menu   12:52:43 237.0467185974121 test-1 ended
+21560    20       INFO MainThread          test_get_menuitems_in_categories   12:52:43 237.0467185974121 test-3 started
+21560    10      DEBUG MainThread           _new_conn   12:52:43 237.0467185974121 Starting new HTTP connection (1): 127.0.0.1:8000
+21560    10      DEBUG MainThread          _make_request   12:52:43 320.62602043151855 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+21560    20       INFO MainThread          test_get_menuitems_in_categories   12:52:43 320.62602043151855 test-3 ended
+21560    20       INFO MainThread          test_get_menuitems_in_the_categories   12:52:43 320.62602043151855 test-4 started
+21560    10      DEBUG MainThread           _new_conn   12:52:43 320.62602043151855 Starting new HTTP connection (1): 127.0.0.1:8000
+21560    10      DEBUG MainThread          _make_request   12:52:43 358.9189052581787 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+21560    20       INFO MainThread          test_get_menuitems_in_the_categories   12:52:43 358.9189052581787 test-4 ended
+21560    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   12:52:43 358.9189052581787 test-7 started
+21560    10      DEBUG MainThread           _new_conn   12:52:43 358.9189052581787 Starting new HTTP connection (1): 127.0.0.1:8000
+21560    10      DEBUG MainThread          _make_request   12:52:43 622.380256652832 http://127.0.0.1:8000 "GET /get/menuitems/in/the/subcategories/ HTTP/1.1" 200 1583
+21560    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   12:52:43 622.380256652832 test-7 ended
+21560    20       INFO MainThread          test_get_subcategories_in_the_categories   12:52:43 622.380256652832 test-5 started
+21560    10      DEBUG MainThread           _new_conn   12:52:43 622.380256652832 Starting new HTTP connection (1): 127.0.0.1:8000
+21560    10      DEBUG MainThread          _make_request   12:52:43 745.9018230438232 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+21560    20       INFO MainThread          test_get_subcategories_in_the_categories   12:52:43 745.9018230438232 test-5 ended
+31832    20       INFO MainThread          test_check_for_menuitems_in_subcategories   15:56:58 5.647182464599609 test-6 started
+31832    10      DEBUG MainThread           _new_conn   15:56:58 145.96033096313477 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:58 375.73885917663574 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+31832    20       INFO MainThread          test_check_for_menuitems_in_subcategories   15:56:58 375.73885917663574 test-6 ended
+31832    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   15:56:58 375.73885917663574 test-2 started
+31832    10      DEBUG MainThread           _new_conn   15:56:58 375.73885917663574 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:58 416.2454605102539 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+31832    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   15:56:58 425.462007522583 test-2 ended
+31832    20       INFO MainThread          test_get_all_the_categories_in_the_menu   15:56:58 425.462007522583 test-1 started
+31832    10      DEBUG MainThread           _new_conn   15:56:58 425.462007522583 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:58 470.792293548584 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+31832    20       INFO MainThread          test_get_all_the_categories_in_the_menu   15:56:58 470.792293548584 test-1 ended
+31832    20       INFO MainThread          test_get_menuitems_in_categories   15:56:58 475.8918285369873 test-3 started
+31832    10      DEBUG MainThread           _new_conn   15:56:58 475.8918285369873 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:58 576.5039920806885 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+31832    20       INFO MainThread          test_get_menuitems_in_categories   15:56:58 576.5039920806885 test-3 ended
+31832    20       INFO MainThread          test_get_menuitems_in_the_categories   15:56:58 576.5039920806885 test-4 started
+31832    10      DEBUG MainThread           _new_conn   15:56:58 576.5039920806885 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:58 623.450517654419 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+31832    20       INFO MainThread          test_get_menuitems_in_the_categories   15:56:58 623.450517654419 test-4 ended
+31832    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   15:56:58 623.450517654419 test-7 started
+31832    10      DEBUG MainThread           _new_conn   15:56:58 623.450517654419 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:58 849.8125076293945 http://127.0.0.1:8000 "GET /get/menuitems/in/the/subcategories/ HTTP/1.1" 200 1583
+31832    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   15:56:58 849.8125076293945 test-7 ended
+31832    20       INFO MainThread          test_get_overview_of_entire_menu   15:56:58 849.8125076293945 test-8 started
+31832    10      DEBUG MainThread           _new_conn   15:56:58 865.736722946167 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:59 58.76946449279785 http://127.0.0.1:8000 "GET /get/overview/of/the/entire/menu/ HTTP/1.1" 200 3279
+31832    20       INFO MainThread          test_get_subcategories_in_the_categories   15:56:59 58.76946449279785 test-5 started
+31832    10      DEBUG MainThread           _new_conn   15:56:59 58.76946449279785 Starting new HTTP connection (1): 127.0.0.1:8000
+31832    10      DEBUG MainThread          _make_request   15:56:59 202.51703262329102 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+31832    20       INFO MainThread          test_get_subcategories_in_the_categories   15:56:59 202.51703262329102 test-5 ended
+17788    20       INFO MainThread          test_check_for_menuitems_in_subcategories   15:58:24 268.1849002838135 test-6 started
+17788    10      DEBUG MainThread           _new_conn   15:58:24 273.1907367706299 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:24 388.26751708984375 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+17788    20       INFO MainThread          test_check_for_menuitems_in_subcategories   15:58:24 398.0550765991211 test-6 ended
+17788    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   15:58:24 398.0550765991211 test-2 started
+17788    10      DEBUG MainThread           _new_conn   15:58:24 398.0550765991211 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:24 423.0072498321533 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+17788    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   15:58:24 423.0072498321533 test-2 ended
+17788    20       INFO MainThread          test_get_all_the_categories_in_the_menu   15:58:24 423.0072498321533 test-1 started
+17788    10      DEBUG MainThread           _new_conn   15:58:24 423.0072498321533 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:24 448.0874538421631 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+17788    20       INFO MainThread          test_get_all_the_categories_in_the_menu   15:58:24 448.0874538421631 test-1 ended
+17788    20       INFO MainThread          test_get_menuitems_in_categories   15:58:24 448.0874538421631 test-3 started
+17788    10      DEBUG MainThread           _new_conn   15:58:24 458.0810070037842 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:24 508.1906318664551 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+17788    20       INFO MainThread          test_get_menuitems_in_categories   15:58:24 508.1906318664551 test-3 ended
+17788    20       INFO MainThread          test_get_menuitems_in_the_categories   15:58:24 508.1906318664551 test-4 started
+17788    10      DEBUG MainThread           _new_conn   15:58:24 508.1906318664551 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:24 538.4571552276611 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+17788    20       INFO MainThread          test_get_menuitems_in_the_categories   15:58:24 538.4571552276611 test-4 ended
+17788    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   15:58:24 538.4571552276611 test-7 started
+17788    10      DEBUG MainThread           _new_conn   15:58:24 538.4571552276611 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:24 782.3173999786377 http://127.0.0.1:8000 "GET /get/menuitems/in/the/subcategories/ HTTP/1.1" 200 1583
+17788    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   15:58:24 782.3173999786377 test-7 ended
+17788    20       INFO MainThread          test_get_overview_of_entire_menu   15:58:24 782.3173999786377 test-8 started
+17788    10      DEBUG MainThread           _new_conn   15:58:24 782.3173999786377 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:25 23.01764488220215 http://127.0.0.1:8000 "GET /get/overview/of/the/entire/menu/ HTTP/1.1" 200 3279
+17788    20       INFO MainThread          test_get_overview_of_entire_menu   15:58:25 23.01764488220215 test-8 ended
+17788    20       INFO MainThread          test_get_subcategories_in_the_categories   15:58:25 23.01764488220215 test-5 started
+17788    10      DEBUG MainThread           _new_conn   15:58:25 23.01764488220215 Starting new HTTP connection (1): 127.0.0.1:8000
+17788    10      DEBUG MainThread          _make_request   15:58:25 136.14940643310547 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+17788    20       INFO MainThread          test_get_subcategories_in_the_categories   15:58:25 136.14940643310547 test-5 ended
+26892    20       INFO MainThread          test_check_for_menuitems_in_subcategories   15:58:28 699.2824077606201 test-6 started
+26892    10      DEBUG MainThread           _new_conn   15:58:28 714.9145603179932 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:28 871.2396621704102 http://127.0.0.1:8000 "GET /check/for/menuitems/in/the/subcategories/ HTTP/1.1" 200 558
+26892    20       INFO MainThread          test_check_for_menuitems_in_subcategories   15:58:28 871.2396621704102 test-6 ended
+26892    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   15:58:28 886.7776393890381 test-2 started
+26892    10      DEBUG MainThread           _new_conn   15:58:28 890.6586170196533 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:28 906.3575267791748 http://127.0.0.1:8000 "GET /check/for/the/presence/of/menuitems/in/the/categories/ HTTP/1.1" 200 497
+26892    20       INFO MainThread          test_check_for_the_presence_of_menuitems_in_the_categories   15:58:28 906.3575267791748 test-2 ended
+26892    20       INFO MainThread          test_get_all_the_categories_in_the_menu   15:58:28 906.3575267791748 test-1 started
+26892    10      DEBUG MainThread           _new_conn   15:58:28 906.3575267791748 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:28 937.5927448272705 http://127.0.0.1:8000 "GET /get/all/the/categories/in/the/menu/ HTTP/1.1" 200 354
+26892    20       INFO MainThread          test_get_all_the_categories_in_the_menu   15:58:28 937.5927448272705 test-1 ended
+26892    20       INFO MainThread          test_get_menuitems_in_categories   15:58:28 937.5927448272705 test-3 started
+26892    10      DEBUG MainThread           _new_conn   15:58:28 937.5927448272705 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:29 16.364336013793945 http://127.0.0.1:8000 "GET /get/menuitems/in/the/categories/ HTTP/1.1" 200 1253
+26892    20       INFO MainThread          test_get_menuitems_in_categories   15:58:29 16.364336013793945 test-3 ended
+26892    20       INFO MainThread          test_get_menuitems_in_the_categories   15:58:29 16.364336013793945 test-4 started
+26892    10      DEBUG MainThread           _new_conn   15:58:29 16.364336013793945 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:29 32.17482566833496 http://127.0.0.1:8000 "GET /check/for/subcategories/in/the/categories/ HTTP/1.1" 200 502
+26892    20       INFO MainThread          test_get_menuitems_in_the_categories   15:58:29 32.17482566833496 test-4 ended
+26892    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   15:58:29 32.17482566833496 test-7 started
+26892    10      DEBUG MainThread           _new_conn   15:58:29 47.81818389892578 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:29 191.67399406433105 http://127.0.0.1:8000 "GET /get/menuitems/in/the/subcategories/ HTTP/1.1" 200 1583
+26892    20       INFO MainThread          test_get_menuitems_in_the_subcatgories   15:58:29 191.67399406433105 test-7 ended
+26892    20       INFO MainThread          test_get_overview_of_entire_menu   15:58:29 191.67399406433105 test-8 started
+26892    10      DEBUG MainThread           _new_conn   15:58:29 207.3040008544922 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:29 426.4533519744873 http://127.0.0.1:8000 "GET /get/overview/of/the/entire/menu/ HTTP/1.1" 200 3279
+26892    20       INFO MainThread          test_get_overview_of_entire_menu   15:58:29 426.4533519744873 test-8 ended
+26892    20       INFO MainThread          test_get_subcategories_in_the_categories   15:58:29 426.4533519744873 test-5 started
+26892    10      DEBUG MainThread           _new_conn   15:58:29 426.4533519744873 Starting new HTTP connection (1): 127.0.0.1:8000
+26892    10      DEBUG MainThread          _make_request   15:58:29 521.2898254394531 http://127.0.0.1:8000 "GET /get/subcategories/in/the/categories/ HTTP/1.1" 200 785
+26892    20       INFO MainThread          test_get_subcategories_in_the_categories   15:58:29 521.2898254394531 test-5 ended
